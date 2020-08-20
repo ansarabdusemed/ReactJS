@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactJS/static/css/main.e0a9b624.chunk.css",
+    "main.js": "/ReactJS/static/js/main.2b06957f.chunk.js",
+    "main.js.map": "/ReactJS/static/js/main.2b06957f.chunk.js.map",
+    "runtime-main.js": "/ReactJS/static/js/runtime-main.c645ba9e.js",
+    "runtime-main.js.map": "/ReactJS/static/js/runtime-main.c645ba9e.js.map",
+    "static/js/2.ec8f0743.chunk.js": "/ReactJS/static/js/2.ec8f0743.chunk.js",
+    "static/js/2.ec8f0743.chunk.js.map": "/ReactJS/static/js/2.ec8f0743.chunk.js.map",
+    "index.html": "/ReactJS/index.html",
+    "precache-manifest.6dcf0dc96a02006c633c077df07c766a.js": "/ReactJS/precache-manifest.6dcf0dc96a02006c633c077df07c766a.js",
+    "service-worker.js": "/ReactJS/service-worker.js",
+    "static/css/main.e0a9b624.chunk.css.map": "/ReactJS/static/css/main.e0a9b624.chunk.css.map",
+    "static/js/2.ec8f0743.chunk.js.LICENSE.txt": "/ReactJS/static/js/2.ec8f0743.chunk.js.LICENSE.txt",
+    "static/media/ABTLogo.png": "/ReactJS/static/media/ABTLogo.96e721c6.png",
+    "static/media/logo.svg": "/ReactJS/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c645ba9e.js",
+    "static/js/2.ec8f0743.chunk.js",
+    "static/css/main.e0a9b624.chunk.css",
+    "static/js/main.2b06957f.chunk.js"
+  ]
+}
